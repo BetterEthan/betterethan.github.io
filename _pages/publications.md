@@ -57,7 +57,7 @@ author_profile: true
               <a href="https://github.com/qiaozhijian/VCR-Net.git">Code</a>
             </td>
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <object width="40%" height="25%" data="https://www.youtube.com/watch?v=ROW0UooP9qQ"></object>
+                <object width="40%" height="25%" data="https://www.youtube.com/embed/FiCiRkkfxhM"></object>
             </td>
           </tr>
     </table>
