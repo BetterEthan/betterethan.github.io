@@ -11,7 +11,10 @@ redirect_from:
 **Legged Robot**, **Motion Planning**, **Environmental Perception** and **Machine learning**.
 
 <!-- ![avatar](../images/hexapod.png) -->
-![avatar](222.png)
+<html>
+<img src="222.png" alt="Smiley face" width="1200" height="600">
+</html>
+
 
 Education:
 ======
