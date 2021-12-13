@@ -42,7 +42,15 @@ author_profile: true
           </tr>
     </table>
 
-
+    <div class="embed-container">
+      <iframe
+          src="https://www.youtube.com/embed/ROW0UooP9qQ"
+          width="700"
+          height="480"
+          frameborder="0"
+          allowfullscreen="">
+      </iframe>
+    </div>
 
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
