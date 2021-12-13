@@ -9,66 +9,137 @@ author_profile: true
 
 
 <html>
+
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:60%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>Registration-aided 3D Point Cloud Learning for Large-Scale Place Recognition
+            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: Contact sequence planning for hexapod robots in sparse foothold environment based on Monte-Carlo tree
+                  </font>
                 </papertitle>
               <br>
-              <strong>Zhijian Qiao</strong>, <a href="https://hanjianghu.github.io/">Hanjiang Hu</a>, Weiang Shi, Zhe Liu and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
+                  <font size="4" color="black">
+                    <strong>Peng Xu</strong>, Liang Ding, Zhikai Wang, et al
+                  </font>
               <br>
-              <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.</em><br>
-              <a href="https://arxiv.org/abs/2012.05018">Paper</a>
-              <a href="https://github.com/qiaozhijian/vLPD-Net.git">Code</a>
+              <em>
+                  <font size="4" color="black">
+                    IEEE Robotics and Automation Letters, 2022, DIO:10.1109/LRA.2021.3133610
+                  </font>
+              </em><br>
+              <!-- <a href="https://arxiv.org/pdf/2011.14579.pdf">Paper</a> /
+              <a href="https://github.com/qiaozhijian/VCR-Net.git">Code</a> -->
             </td>
+
+            <!-- <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <object width="160" height="90" data="https://www.youtube.com/embed/ROW0UooP9qQ"></object>
+            </td> -->
+
           </tr>
-            <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-            </td>
-          <!-- <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <object width="200" height="100" data="https://www.youtube.com/embed/FiCiRkkfxhM"></object>
-              <embed src="https://www.youtube.com/embed/FiCiRkkfxhM" allowfullscreen="true" width="200" height="100">
-              <iframe  width="200" height="100" src="https://www.youtube.com/embed/FiCiRkkfxhM" frameborder="0" allowfullscreen></iframe>
-            </td>
-          </tr> -->
     </table>
 
-
-    <table style="width:50%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <table style="width:60%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:100%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <object width="200" height="100" data="https://www.youtube.com/embed/FiCiRkkfxhM"></object>
+              <object width="160" height="90" data="https://www.youtube.com/embed/ROW0UooP9qQ"></object>
             </td>
           </tr>
     </table>
 
-    <div class="embed-container">
-      <iframe
-          src="https://www.youtube.com/embed/ROW0UooP9qQ"
-          width="700"
-          height="480"
-          frameborder="0"
-          allowfullscreen="">
-      </iframe>
-    </div>
+    <HR>
 
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>End-to-End  3D  Point  Cloud  Learning  for  Registration  Task  UsingVirtual  Correspondences
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: Environmental characterization and path planning for legged robots considering foot-terrain interaction
+                  </font>
                 </papertitle>
               <br>
-              <strong>Zhijian Qiao</strong>, Huanshu Wei, Zhe Liu, Chuanzhe Suo and <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ">Hesheng Wang</a>
+                  <font size="4" color="black">
+                    <strong>Peng Xu</strong>,  Liang Ding,　Haibo Gao, et al
+                  </font>
               <br>
-              <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020</em><br>
-              <a href="https://arxiv.org/pdf/2011.14579.pdf">Paper</a> /
-              <a href="https://github.com/qiaozhijian/VCR-Net.git">Code</a>
-            </td>
-            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <object width="40%" height="25%" data="https://www.youtube.com/embed/FiCiRkkfxhM"></object>
+              <em>
+                  <font size="4" color="black">
+                    Chinese Journal of Mechanical Engineering, $2021, 56(23): 21-33$.
+                  </font>
+              </em><br>
             </td>
           </tr>
     </table>
 
+    <HR>
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: Physics-informed features facilitate terrain classification for legged robots
+                  </font>
+                </papertitle>
+              <br>
+                  <font size="4" color="black">
+                      Liang Ding, <strong>Peng Xu</strong> (First Student),  ZhengYang Li, Ruyi Zhou, et al
+                  </font>
+              <br>
+              <em>
+                  <font size="4" color="black">
+                    Target Journal: IEEE Robotics and Automation Letters (submitted)
+                  </font>
+              </em><br>
+            </td>
+            <!-- <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <object width="160" height="90" data="https://www.youtube.com/embed/7gxyei8mWGI"></object>
+            </td> -->
+          </tr>
+    </table>
+
+    <HR>
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: Learn physical characteristics like animals for legged robots
+                  </font>
+                </papertitle>
+              <br>
+                  <font size="4" color="black">
+                    <strong>Peng Xu</strong>,  Liang Ding, et al
+                  </font>
+              <br>
+              <em>
+                  <font size="4" color="black">
+                    Target Journal: Nature Machine Intelligence 
+                  </font>
+              </em><br>
+            </td>
+
+            <!-- <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <object width="160" height="90" data="https://www.youtube.com/embed/7gxyei8mWGI"></object>
+            </td> -->
+
+          </tr>
+    </table>
+
+    <table style="width:60%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:100%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <object width="160" height="90" data="https://www.youtube.com/embed/7gxyei8mWGI"></object>
+            </td>
+          </tr>
+    </table>
+
+   <HR>
     
+
+
+
 </html>
+
+
