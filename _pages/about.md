@@ -10,8 +10,8 @@ redirect_from:
 
 **Legged Robot**, **Motion Planning**, **Environmental Perception** and **Machine learning**.
 
-![avatar](../images/hexapod.png)
-
+<!-- ![avatar](../images/hexapod.png) -->
+![avatar](222.png)
 
 Education:
 ======
