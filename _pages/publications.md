@@ -33,14 +33,14 @@ author_profile: true
           </tr> -->
     </table>
 
-<!-- 
+
     <table style="width:50%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:100%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <object width="200" height="100" data="https://www.youtube.com/embed/FiCiRkkfxhM"></object>
             </td>
           </tr>
-    </table> -->
+    </table>
 
 
 
