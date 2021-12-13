@@ -54,12 +54,12 @@ author_profile: true
                 </papertitle>
               <br>
                   <font size="4" color="black">
-                    <strong>Peng Xu</strong>,  Liang Ding, et al
+                    <strong>Peng Xu</strong>, Liang Ding, et al
                   </font>
               <br>
               <em>
                   <font size="4" color="black">
-                    Target Journal: Nature Machine Intelligence 
+                    Target Journal: Nature Machine Intelligence (Preparing)
                   </font>
               </em><br>
             </td>
@@ -74,31 +74,6 @@ author_profile: true
 
    <HR>
     
-
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle> 
-                  <font size="4" color="black">
-                    <strong>Title</strong>: Environmental characterization and path planning for legged robots considering foot-terrain interaction
-                  </font>
-                </papertitle>
-              <br>
-                  <font size="4" color="black">
-                    <strong>Peng Xu</strong>,  Liang Ding,　Haibo Gao, et al
-                  </font>
-              <br>
-              <em>
-                  <font size="4" color="black">
-                    Chinese Journal of Mechanical Engineering, $2021, 56(23): 21-33$.
-                  </font>
-              </em><br>
-            </td>
-          </tr>
-    </table>
-
-  <HR>
-
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -109,7 +84,7 @@ author_profile: true
                 </papertitle>
               <br>
                   <font size="4" color="black">
-                      Liang Ding, <strong>Peng Xu</strong> (First Student),  ZhengYang Li, Ruyi Zhou, et al
+                      Liang Ding, <strong>Peng Xu</strong> (First Student), ZhengYang Li, Ruyi Zhou, et al
                   </font>
               <br>
               <em>
@@ -125,6 +100,32 @@ author_profile: true
     </table>
 
     <HR>
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: Environmental characterization and path planning for legged robots considering foot-terrain interaction
+                  </font>
+                </papertitle>
+              <br>
+                  <font size="4" color="black">
+                    <strong>Peng Xu</strong>, Liang Ding, Haibo Gao, et al
+                  </font>
+              <br>
+              <em>
+                  <font size="4" color="black">
+                    Chinese Journal of Mechanical Engineering, $2021, 56(23): 21-33$.
+                  </font>
+              </em><br>
+            </td>
+          </tr>
+    </table>
+
+  <HR>
+
+    
 
 
 
