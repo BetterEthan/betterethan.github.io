@@ -62,7 +62,7 @@ author_profile: true
               </em><br>
             </td>
             <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <object width="160" height="90" data="https://www.youtube.com/embed/3VZEJAN7Sw0"></object>
+                <object width="160" height="90" data="https://www.youtube.com/embed/BO6ARFdZXxY"></object>
             </td>
           </tr>
     </table>

@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- ![avatar](../images/hexapod.png) -->
 <html>
-<img src="222.png" alt="Smiley face" width="1200" height="600">
+<img src="a.gif" alt="Smiley face" width="1200" height="600">
 </html>
 
 
