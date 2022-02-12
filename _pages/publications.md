@@ -25,11 +25,11 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    IEEE Robotics and Automation Letters, 2022, DIO:10.1109/LRA.2021.3133610
+                    IEEE Robotics and Automation Letters, 2021, 7(2): 826-833.
                   </font>
               </em><br>
-              <!-- <a href="https://arxiv.org/pdf/2011.14579.pdf">Paper</a> /
-              <a href="https://github.com/qiaozhijian/VCR-Net.git">Code</a> -->
+              <a href="https://ieeexplore.ieee.org/document/9645187">Paper</a>
+              <!-- <a href="https://github.com/qiaozhijian/VCR-Net.git">Code</a> -->
             </td>
 
             <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -115,13 +115,13 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    Chinese Journal of Mechanical Engineering, $2021, 56(23): 21-33$ (In Chinese).
+                    Chinese Journal of Mechanical Engineering, 2021, 56(23): 21-33 (In Chinese).
                   </font>
               </em><br>
+              <a href="https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JXXB202023002&uniplatform=OVERSEAS_CHS&v=D-bQu8kiziIAZRqpXMzfzLqa8qQuRVtZff5P9QuPQWgbmxqL_nt4gUnODsac_Md2">Paper</a>
             </td>
           </tr>
     </table>
-
   <HR>
 
     
