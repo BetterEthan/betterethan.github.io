@@ -83,7 +83,7 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    Target Journal: Nature Machine Intelligence (Preparing)
+                    (Preparing......)
                   </font>
               </em><br>
             </td>
@@ -105,7 +105,7 @@ author_profile: true
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle> 
                   <font size="4" color="black">
-                    <strong>Title</strong>: Environmental characterization and path planning for legged robots considering foot-terrain interaction
+                    <strong>Title</strong>: Environmental characterization and path planning for legged robots considering foot-terrain interaction (In Chinese)
                   </font>
                 </papertitle>
               <br>
@@ -115,7 +115,7 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    Chinese Journal of Mechanical Engineering, 2021, 56(23): 21-33 (In Chinese).
+                    Chinese Journal of Mechanical Engineering, 2021, 56(23): 21-33.
                   </font>
               </em><br>
               <a href="https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JXXB202023002&uniplatform=OVERSEAS_CHS&v=D-bQu8kiziIAZRqpXMzfzLqa8qQuRVtZff5P9QuPQWgbmxqL_nt4gUnODsac_Md2">Paper</a>
