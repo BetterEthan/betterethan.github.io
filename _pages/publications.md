@@ -57,7 +57,7 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    Target Journal: IEEE Robotics and Automation Letters (submitted)
+                    Target Journal: IEEE Robotics and Automation Letters (Second Review)
                   </font>
               </em><br>
             </td>
@@ -115,7 +115,7 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    Chinese Journal of Mechanical Engineering, $2021, 56(23): 21-33$.
+                    Chinese Journal of Mechanical Engineering, $2021, 56(23): 21-33$ (In Chinese).
                   </font>
               </em><br>
             </td>
