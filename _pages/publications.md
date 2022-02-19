@@ -57,7 +57,7 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    Target Journal: IEEE Robotics and Automation Letters (Second Review)
+                    IEEE Robotics and Automation Letters (Second Review)
                   </font>
               </em><br>
             </td>
