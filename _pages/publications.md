@@ -57,7 +57,7 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    IEEE Robotics and Automation Letters (Second Review)
+                    IEEE Robotics and Automation Letters (Accepted)
                   </font>
               </em><br>
             </td>
@@ -67,6 +67,58 @@ author_profile: true
           </tr>
     </table>
     <HR>
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: Environmental characterization and path planning for legged robots considering foot-terrain interaction (In Chinese)
+                  </font>
+                </papertitle>
+              <br>
+                  <font size="4" color="black">
+                    <strong>Peng Xu</strong>, Liang Ding, Haibo Gao, et al
+                  </font>
+              <br>
+              <em>
+                  <font size="4" color="black">
+                    Chinese Journal of Mechanical Engineering, 2021, 56(23): 21-33.
+                  </font>
+              </em><br>
+              <a href="https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JXXB202023002&uniplatform=OVERSEAS_CHS&v=D-bQu8kiziIAZRqpXMzfzLqa8qQuRVtZff5P9QuPQWgbmxqL_nt4gUnODsac_Md2">Paper</a>
+            </td>
+          </tr>
+    </table>
+  <HR>
+
+    
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: A Closed-Loop Shared Control Framework for Legged Robots
+                  </font>
+                </papertitle>
+              <br>
+                  <font size="4" color="black">
+                    <strong>Peng Xu</strong>, Zhikai Wang, Liang Ding, et al
+                  </font>
+              <br>
+              <em>
+                  <font size="4" color="black">
+                    The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) (Submitted)
+                  </font>
+              </em><br>
+              <!-- <a href="https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JXXB202023002&uniplatform=OVERSEAS_CHS&v=D-bQu8kiziIAZRqpXMzfzLqa8qQuRVtZff5P9QuPQWgbmxqL_nt4gUnODsac_Md2">Paper</a> -->
+            </td>
+          </tr>
+    </table>
+  <HR>
+
+    
 
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
@@ -99,34 +151,6 @@ author_profile: true
    <HR>
     
    
-
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle> 
-                  <font size="4" color="black">
-                    <strong>Title</strong>: Environmental characterization and path planning for legged robots considering foot-terrain interaction (In Chinese)
-                  </font>
-                </papertitle>
-              <br>
-                  <font size="4" color="black">
-                    <strong>Peng Xu</strong>, Liang Ding, Haibo Gao, et al
-                  </font>
-              <br>
-              <em>
-                  <font size="4" color="black">
-                    Chinese Journal of Mechanical Engineering, 2021, 56(23): 21-33.
-                  </font>
-              </em><br>
-              <a href="https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JXXB202023002&uniplatform=OVERSEAS_CHS&v=D-bQu8kiziIAZRqpXMzfzLqa8qQuRVtZff5P9QuPQWgbmxqL_nt4gUnODsac_Md2">Paper</a>
-            </td>
-          </tr>
-    </table>
-  <HR>
-
-    
-
-
 
 
 </html>
