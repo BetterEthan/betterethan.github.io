@@ -25,13 +25,13 @@ Education:
  
 Recent Work:
 ======
-* **Real-time Mapping Work**
+* **A Closed-Loop Shared Control Framework for Legged Robots**
 * **Physical information perception using tactile and vision technique**
 <html>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <object width="160" height="90" data="https://www.youtube.com/embed/jIywqYHHyM4"></object>
+                <object width="160" height="90" data="https://www.youtube.com/embed/8Y4YBdzNONI"></object>
             </td>
 
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
