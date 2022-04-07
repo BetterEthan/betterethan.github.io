@@ -57,9 +57,10 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    IEEE Robotics and Automation Letters (Accepted)
+                    IEEE Robotics and Automation Letters 2022
                   </font>
               </em><br>
+              <a href="https://ieeexplore.ieee.org/abstract/document/9739835/">Paper</a>
             </td>
             <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <object width="160" height="90" data="https://www.youtube.com/embed/BO6ARFdZXxY"></object>
@@ -94,7 +95,9 @@ author_profile: true
 
     
 
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle> 
@@ -104,7 +107,7 @@ author_profile: true
                 </papertitle>
               <br>
                   <font size="4" color="black">
-                    <strong>Peng Xu</strong>, Zhikai Wang, Liang Ding, et al
+                      <strong>Peng Xu</strong>, Zhikai Wang, Liang Ding, et al
                   </font>
               <br>
               <em>
@@ -112,10 +115,13 @@ author_profile: true
                     The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) (Submitted)
                   </font>
               </em><br>
-              <!-- <a href="https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=JXXB202023002&uniplatform=OVERSEAS_CHS&v=D-bQu8kiziIAZRqpXMzfzLqa8qQuRVtZff5P9QuPQWgbmxqL_nt4gUnODsac_Md2">Paper</a> -->
+              <!-- <a href="https://ieeexplore.ieee.org/abstract/document/9739835/">Paper</a> -->
+            </td>
+            <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <object width="160" height="90" data="https://www.youtube.com/embed/8Y4YBdzNONI"></object>
             </td>
           </tr>
-    </table>
+    </table>    
   <HR>
 
     
@@ -125,7 +131,7 @@ author_profile: true
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle> 
                   <font size="4" color="black">
-                    <strong>Title</strong>: Learn physical characteristics like animals for legged robots
+                    <strong>Title</strong>: Learning physical characteristics like animals for legged robots
                   </font>
                 </papertitle>
               <br>
