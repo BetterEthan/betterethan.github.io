@@ -112,10 +112,10 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) (Submitted)
+                    IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH) (Submitted)
                   </font>
               </em><br>
-              <!-- <a href="https://ieeexplore.ieee.org/abstract/document/9739835/">Paper</a> -->
+              <a href="https://sites.google.com/view/shared-control-leggedrobot/home">Website</a>
             </td>
             <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <object width="160" height="90" data="https://www.youtube.com/embed/8Y4YBdzNONI"></object>
@@ -141,13 +141,13 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    (Preparing......)
+                    Science Advances (Submitted)
                   </font>
               </em><br>
             </td>
 
             <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <object width="160" height="90" data="https://www.youtube.com/embed/7gxyei8mWGI"></object>
+                <object width="160" height="90" data="https://www.youtube.com/embed/FWd5xM3IZEg"></object>
             </td>
 
           </tr>
