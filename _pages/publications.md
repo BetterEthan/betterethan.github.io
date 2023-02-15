@@ -10,6 +10,65 @@ author_profile: true
 
 <html>
 
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: Learning physical characteristics like animals for legged robots
+                  </font>
+                </papertitle>
+              <br>
+                  <font size="4" color="black">
+                    <strong>Peng Xu</strong>, Liang Ding, Zhengyang Li, et al
+                  </font>
+              <br>
+              <em>
+                  <font size="4" color="black">
+                    National Science Review 2023 (Accept)
+                  </font>
+              </em><br>
+            </td>
+
+            <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <object width="160" height="90" data="https://www.youtube.com/embed/FWd5xM3IZEg"></object>
+            </td>
+
+          </tr>
+    </table>
+   <HR>
+
+
+
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: A Closed-Loop Shared Control Framework for Legged Robots
+                  </font>
+                </papertitle>
+              <br>
+                  <font size="4" color="black">
+                      <strong>Peng Xu</strong>, Zhikai Wang, Liang Ding, et al
+                  </font>
+              <br>
+              <em>
+                  <font size="4" color="black">
+                    IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH) 2023 (Second Review)
+                  </font>
+              </em><br>
+              <a href="https://sites.google.com/view/shared-control-leggedrobot/home">Website</a>
+            </td>
+            <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <object width="160" height="90" data="https://www.youtube.com/embed/8Y4YBdzNONI"></object>
+            </td>
+          </tr>
+    </table>    
+  <HR>
+
+
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -69,6 +128,7 @@ author_profile: true
     </table>
     <HR>
 
+
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -97,64 +157,9 @@ author_profile: true
 
 
 
- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle> 
-                  <font size="4" color="black">
-                    <strong>Title</strong>: A Closed-Loop Shared Control Framework for Legged Robots
-                  </font>
-                </papertitle>
-              <br>
-                  <font size="4" color="black">
-                      <strong>Peng Xu</strong>, Zhikai Wang, Liang Ding, et al
-                  </font>
-              <br>
-              <em>
-                  <font size="4" color="black">
-                    IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH) (Submitted)
-                  </font>
-              </em><br>
-              <a href="https://sites.google.com/view/shared-control-leggedrobot/home">Website</a>
-            </td>
-            <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <object width="160" height="90" data="https://www.youtube.com/embed/8Y4YBdzNONI"></object>
-            </td>
-          </tr>
-    </table>    
-  <HR>
 
     
 
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle> 
-                  <font size="4" color="black">
-                    <strong>Title</strong>: Learning physical characteristics like animals for legged robots
-                  </font>
-                </papertitle>
-              <br>
-                  <font size="4" color="black">
-                    <strong>Peng Xu</strong>, Liang Ding, et al
-                  </font>
-              <br>
-              <em>
-                  <font size="4" color="black">
-                    Science Advances (Submitted)
-                  </font>
-              </em><br>
-            </td>
-
-            <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <object width="160" height="90" data="https://www.youtube.com/embed/FWd5xM3IZEg"></object>
-            </td>
-
-          </tr>
-    </table>
-
-
-   <HR>
     
    
 
