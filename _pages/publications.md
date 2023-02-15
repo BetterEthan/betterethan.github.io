@@ -69,6 +69,35 @@ author_profile: true
   <HR>
 
 
+
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: Physics-informed features facilitate terrain classification for legged robots
+                  </font>
+                </papertitle>
+              <br>
+                  <font size="4" color="black">
+                      Liang Ding, <strong>Peng Xu</strong> (First Student), ZhengYang Li, Ruyi Zhou, et al
+                  </font>
+              <br>
+              <em>
+                  <font size="4" color="black">
+                    IEEE Robotics and Automation Letters, 2022, 7(3): 5990-5997.
+                  </font>
+              </em><br>
+              <a href="https://ieeexplore.ieee.org/abstract/document/9739835/">Paper</a>
+            </td>
+            <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <object width="160" height="90" data="https://www.youtube.com/embed/BO6ARFdZXxY"></object>
+            </td>
+          </tr>
+    </table>
+    <HR>
+
+
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -99,33 +128,6 @@ author_profile: true
     </table>
 
 
-    <HR>
-
- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle> 
-                  <font size="4" color="black">
-                    <strong>Title</strong>: Physics-informed features facilitate terrain classification for legged robots
-                  </font>
-                </papertitle>
-              <br>
-                  <font size="4" color="black">
-                      Liang Ding, <strong>Peng Xu</strong> (First Student), ZhengYang Li, Ruyi Zhou, et al
-                  </font>
-              <br>
-              <em>
-                  <font size="4" color="black">
-                    IEEE Robotics and Automation Letters 2022
-                  </font>
-              </em><br>
-              <a href="https://ieeexplore.ieee.org/abstract/document/9739835/">Paper</a>
-            </td>
-            <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <object width="160" height="90" data="https://www.youtube.com/embed/BO6ARFdZXxY"></object>
-            </td>
-          </tr>
-    </table>
     <HR>
 
 
