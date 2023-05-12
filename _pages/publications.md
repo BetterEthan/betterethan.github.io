@@ -56,7 +56,7 @@ author_profile: true
               <br>
               <em>
                   <font size="4" color="black">
-                    IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH) 2023 (Second Review)
+                    IEEE/ASME TRANSACTIONS ON MECHATRONICS (TMECH), 2023, 10.1109/TMECH.2023.3270527 
                   </font>
               </em><br>
               <a href="https://sites.google.com/view/shared-control-leggedrobot/home">Website</a>
