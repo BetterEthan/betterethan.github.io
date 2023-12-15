@@ -132,6 +132,34 @@ author_profile: true
     </table>
     <HR>
 
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:50%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle> 
+                  <font size="4" color="black">
+                    <strong>Title</strong>: Cooperative Exploration and Planning: UAV-Legged Robot Synergy
+                  </font>
+                </papertitle>
+              <br>
+                  <font size="4" color="black">
+                     Zhengyang Li , <strong>Peng Xu *</strong> (corresponding author), Liang Ding*, et al
+                  </font>
+              <br>
+              <em>
+                  <font size="4" color="black">
+                    2024 IEEE International Conference on Robotics and Automation (ICRA2024) (Submitted).
+                  </font>
+              </em><br>
+              <a href="https://sites.google.com/view/cooperative-exploration/home">Paper</a>
+            </td>
+            <td style="padding:20px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <object width="160" height="90" data="https://www.youtube.com/embed/hPR12CeAq3I"></object>
+            </td>
+          </tr>
+    </table>
+    <HR>
+
+
 
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
