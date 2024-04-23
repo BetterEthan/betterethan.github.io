@@ -21,9 +21,9 @@ Education:
 * Phd. Candidate, Harbin Institute of Technology (HIT), 2020 - Present.
   * Honors: Doctoral National Scholarship
 * M.S. Machanical Engineering, Harbin Institute of Technology (HIT), 2018 - 2020
-  * Honors: Outstanding Individuals in Innovation and Entrepreneurship, Outstanding Student Leader Models, Excellent Graduation Thesis
-* B.S. Automation, Northeastern University (NEU), 2014 - 2018.
   * Scholarship: First-Class Scholarship of Harbin Institute of Technology (Twice).
+* B.S. Automation, Northeastern University (NEU), 2014 - 2018.
+  * Honors: Outstanding Individuals in Innovation and Entrepreneurship, Outstanding Student Leader Models, Excellent Graduation Thesis
  
 
 
